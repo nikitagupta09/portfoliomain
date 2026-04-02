@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nikita Gupta Portfolio"
-  description: "Data Engineer & AI Systems Builder"
+  title: "Nikita Gupta Portfolio",
+  description: "Data Engineer & AI Systems Builder",
 };
 
 export default function RootLayout({
