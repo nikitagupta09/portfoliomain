@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
+export const Metadata = {
   title: "Nikita Gupta Portfolio",
   description: "Data Engineer & AI Systems Builder",
 };
