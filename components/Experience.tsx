@@ -17,7 +17,7 @@ const roles: Role[] = [
   {
     id: 1,
     title: "Data/AI Engineer",
-    company: "Bright Mind Enrichment",
+    company: "RTS Labs",
     location: "USA",
     period: "Aug 2025 – Mar 2026",
     highlights: [
@@ -33,7 +33,7 @@ const roles: Role[] = [
     title: "Data Analyst",
     company: "Northeastern University Bookstore",
     location: "USA",
-    period: "Apr 2024 – May 2025",
+    period: "Apr 2024 – April 2025",
     highlights: [
       "Wrote complex SQL queries to process 10,000+ product records improving data accuracy.",
       "Reduced data reconciliation time by 30%.",
