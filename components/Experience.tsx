@@ -21,11 +21,11 @@ const roles: Role[] = [
     location: "USA",
     period: "Aug 2025 – Mar 2026",
     highlights: [
-      "Designed and maintained ETL pipelines using Azure Data Factory (ADF) integrating fundraising and donor data.",
+      "Designed and maintained ETL pipelines using Azure Data Factory (ADF) integrating property listings and construction data.",
       "Improved data quality and reduced ingestion errors by 30%.",
       "Built Tableau dashboards for leadership improving KPI tracking efficiency.",
-      "Optimized SQL queries reducing execution time by 50%.",
-      "Developed a Generative AI donor outreach tool using LLM APIs, reducing manual effort by 40%."
+      "Optimized SQL queries using CTEs and indexing, reducing execution time by 50%",
+      "Developed a Generative AI tool using LLM APIs and Python, reducing manual documentation effort by 40%"
     ],
   },
   {
