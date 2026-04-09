@@ -30,7 +30,7 @@ const roles: Role[] = [
   },
   {
     id: 2,
-    title: "Data Analyst",
+    title: "Data Engineer",
     company: "Northeastern University Bookstore",
     location: "USA",
     period: "Apr 2024 – April 2025",
@@ -43,7 +43,7 @@ const roles: Role[] = [
   },
   {
     id: 3,
-    title: "Data Analyst",
+    title: "Data Engineer",
     company: "Redington Group",
     location: "UAE",
     period: "Sep 2022 – Aug 2023",
@@ -57,7 +57,7 @@ const roles: Role[] = [
   },
   {
     id: 4,
-    title: "Data Science & Analytics Intern",
+    title: "Data Science & ML Intern",
     company: "Techtastic Technologies",
     location: "India",
     period: "Jan 2022 – Jun 2022",
