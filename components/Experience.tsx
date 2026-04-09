@@ -43,7 +43,7 @@ const roles: Role[] = [
   },
   {
     id: 3,
-    title: "Data Engineer",
+    title: "Data Engineer ",
     company: "Redington Group",
     location: "UAE",
     period: "Sep 2022 – Aug 2023",
