@@ -19,7 +19,7 @@ const roles: Role[] = [
     title: "Data/AI Engineer",
     company: "RTS Labs",
     location: "USA",
-    period: "Aug 2025 – Mar 2026",
+    period: "Aug 2025 – Present",
     highlights: [
       "Built data pipelines using Azure Data Factory, dbt, and Airflow to move client data from Salesforce, SQL Server, and REST APIs into Snowflake",
       "Maintained dbt models with schema tests and documentation to keep data accurate and easy to hand off across client projects",
