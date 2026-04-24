@@ -75,13 +75,13 @@ export default function About() {
               I design scalable data pipelines, real-time streaming systems, and AI-powered solutions that transform raw data into actionable insights.
             </p>
             <p>
-              My work focuses on building end-to-end platforms using <strong className="font-medium text-white">Azure (ADF, ADLS, Event Hub, Databricks)</strong> and <strong className="font-medium text-white">PySpark</strong>, supporting both batch and real-time processing.
+              My work focuses on building end-to-end platforms using <strong className="font-medium text-white">Azure (ADF, ADLS, Event Hub, Databricks)</strong> and <strong className="font-medium text-white">PySpark</strong>, as well as delivering analytics and dashboards that turn data into clear business insights.
             </p>
             <p>
-              I specialize in <strong className="font-medium text-white">Medallion architectures</strong> (Bronze, Silver, Gold), optimizing ETL pipelines, and creating analytics-ready data models.
+              I specialize in building clean, analytics-ready data models, optimizing ETL pipelines, and creating <strong className="font-medium text-white">dashboards and reports</strong> that non-technical teams can actually use.
             </p>
             <p>
-              I also build <strong className="font-medium text-white">Generative AI solutions</strong>, including RAG systems and intelligent automation that bridge data engineering with AI.
+             I also build <strong className="font-medium text-white">AI-powered solutions</strong> including RAG systems and intelligent automation — making data more accessible and useful through natural language and smart search.
             </p>
             <p>
               I enjoy solving complex data challenges and turning data into meaningful business impact.
