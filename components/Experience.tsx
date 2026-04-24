@@ -21,11 +21,11 @@ const roles: Role[] = [
     location: "USA",
     period: "Aug 2025 – Mar 2026",
     highlights: [
-      "Designed and maintained ETL pipelines using Azure Data Factory (ADF) integrating property listings and construction data.",
-      "Improved data quality and reduced ingestion errors by 30%.",
-      "Built Tableau dashboards for leadership improving KPI tracking efficiency.",
-      "Optimized SQL queries using CTEs and indexing, reducing execution time by 50%",
-      "Developed a Generative AI tool using LLM APIs and Python, reducing manual documentation effort by 40%"
+      "Built data pipelines using Azure Data Factory, dbt, and Airflow to move client data from Salesforce, SQL Server, and REST APIs into Snowflake",
+      "Maintained dbt models with schema tests and documentation to keep data accurate and easy to hand off across client projects",
+      "Built AI agents using OpenAI SDK to automate data transformation on messy, unpredictable client datasets — saving hours of manual work per project",
+      "Set up a semantic search layer using Snowflake Cortex Search so analysts could find answers across documents in minutes instead of manually searching",
+      "Tuned Snowflake queries using clustering keys and materialized views to improve performance and reduce compute costs"
     ],
   },
   {
@@ -48,11 +48,11 @@ const roles: Role[] = [
     location: "UAE",
     period: "Sep 2022 – Aug 2023",
     highlights: [
-      "Built PySpark pipelines on Databricks for processing large-scale sales data.",
+      "Built AWS-based ETL pipelines using S3, Lambda, Glue, and Airflow to collect and process data across 10+ regional business units",
       "Improved reporting speed by 20%.",
-      "Developed demand forecasting models using Python.",
-      "Automated reporting workflows reducing manual effort by 70%.",
-      "Designed Tableau dashboards improving business decision-making."
+      "Used PySpark, Python, and SQL to clean and standardize sales and inventory data before loading it into Amazon Redshift",
+      "Tuned Snowflake SQL queries for bulk updates and backfill jobs, improving query speed and reducing data quality issues",
+      "Added monitoring and alerting in Airflow and CloudWatch so pipeline failures got caught early instead of showing up as missed reports"
     ],
   },
   {
@@ -62,9 +62,7 @@ const roles: Role[] = [
     location: "India",
     period: "Jan 2022 – Jun 2022",
     highlights: [
-      "Built K-Means clustering models for customer segmentation.",
-      "Developed Power BI dashboards improving sales targeting by 25%.",
-      "Performed EDA and statistical analysis improving operational efficiency by 20%."
+      "Used K-Means clustering, chi-square, and ANOVA in Python to find regional patterns across 5 customer segments and built Power BI dashboards to share findings with the team",
     ],
   },
 ];
